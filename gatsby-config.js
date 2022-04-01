@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Carbyne Explorations`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `John Pilu`,
+      summary: `Exploring intuitive, dynamic, strategically useful and efficiency-expanding concepts.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `Blog.`,
+    // siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    // social: {
+    //   twitter: `kylemathews`,
+    // },
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -113,7 +113,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Vras`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
