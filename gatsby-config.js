@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Carbyne Explorations`,
     author: {
-      name: `John Pilu`,
-      summary: `Exploring intuitive, dynamic, strategically useful and efficiency-expanding concepts.`,
+      name: `John`,
+      summary: `Exploring concepts of intuitive, dynamic, practical expansion, efficiency rates, coherence and optimizing practical value returns per day.`,
     },
     description: `Blog.`,
     // siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
