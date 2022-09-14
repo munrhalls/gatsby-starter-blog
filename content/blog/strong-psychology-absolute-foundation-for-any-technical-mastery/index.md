@@ -3,15 +3,9 @@ title: Psychological precedes technical.
 date: "2022-05-12T23:46:37.121Z"
 ---
 
-Disclaimer: The tone or concept in all the articles I'm sharing here, is about me teaching myself. It's NOT me trying to tell the reader "HEY, LISTEN, HERE'S WHAT'S UP. No, I'm just sharing my journey. I also don't care if you agree or not, with whatever you happen to be agreeing with or not. Take your tea, your cakes or whatever and have a nice read or not.
+DISCLAIMER: The tone or concept in all the articles I'm sharing here, is about me teaching myself. It's NOT me trying to tell the reader "HEY, HERE'S WHAT'S UP". I'm merely sharing my journey. I also don't care if you agree or not, with whatever you happen to be agreeing with or not. Take your tea, your cakes or whatever and have a nice read.
 
-PSYCHOLOGICAL PRECEDES TECHNICAL.
-
-So what that you have the skills and you can, whatever and however much it is that you can, if it's trivially easy to psychologically distract, derail or otherwise thwart you?
-
-Whatever a person can or knows how to perform well, these abilities are only about as accessible their psychological resilience allows. Conversely, whatever areas of lack are present in the sphere of your psychological resilience, it'll limit your abilities far below their real level.
-
-PSYCHOLOGICAL RESILIENCE AND CONFIDENCE
+#PSYCHOLOGICAL RESILIENCE AND CONFIDENCE
 
 Archilocos, Greek warrior, stated: "We don't raise to the level of our expectations, we fall to the level of our training".
 
@@ -19,20 +13,14 @@ But we can fall far, far below the level of our training.
 
 Confidence, for example, works in reverse of what people understand it as.
 
-You can't just start playing great piano piece if you've never trained it, no matter how enormously confident you happen to be.
+You can't just start playing a great guitar piece if you've never trained playing on guitar before, no matter how enormously confident you happen to be.
 
-However, a person can be literally blocked and stopped from playing a great piano piece that they've already played and performed a hundred times before - if you can somehow bring down, entangle their confidence.
+However, a person can be significantly diminished or even blocked from playing a great guitar piece that they've already played and performed a hundred times before - if you can somehow bring down or entangle their confidence.
 
-Confidence IS NOT the enabler of miraculous feats, abnormal learning rate or seemingly impossible achievements.
-Confidence IS the protector of real skills and abilities that you and only you know that you have - regardless of whatever anyone else happens to be thinking about them.
+Confidence IS NOT an enabler of hard-to-believe feats, abnormal learning rate or very impropable achievements.
+Confidence IS the protector of real skills and abilities to both learn and perform that you and only you know that you have - regardless of whatever anyone else thinks about any of it.
 
-However, when you do have that confidence - understood for what it is in reality, as noted above - then, then you can what a lot of people seemingly can't. It can seem like abnormal learning rate or seemingly hard-to-believe achievements. However, again - confidence is the reverse of what people think about it.
-
-When you actually realize those abnormal achievements or learning rate, your actions aren't in any way abnormal in reality, they're just less bogged down by misconceptions. Confidence is NOT an enabler of new abilities, it is the protector of what you and only you KNOW that you can do or learn, regardless of whatever anyone else might think or believe or be convinced about it.
-
-PSYCHOLOGICAL RESILIENCE IS AN ACTIVE TRAIT
-
-There's a reason why performance psychology, sports psychology, exists: it's real. It's one of the most real and fundamental disciplines. You don't just get to express your skills and abilities unhindered in this world. Whatever you can, it needs to go in tandem with the ability to protect and assert it, if challenged.
+##PSYCHOLOGICAL RESILIENCE AND BEING RELENTLESSLY PROACTIVE
 
 The world exerts pressure. People exert pressure. There are enormous amounts of influence, all kinds of influence, all the time. Lack of psychological resilience creates scenarios where real abilities and skills you have trained, learned, honed and acquired, won't even matter - it'll as if you didn't even ever train, learn, develop and hone any of them at all.
 
