@@ -3,13 +3,13 @@ title: Psychological precedes technical.
 date: "2022-05-12T23:46:37.121Z"
 ---
 
-Disclaimer: The tone or concept in all the articles I'm sharing here, is about me teaching myself. It's NOT me trying to tell the reader "HEY, LISTEN, SIT DOWN AND LISTEN, H E R E'S W H A T'S U P. HERE'S HOW THIS AND THAT WORKS. AND HERE'S HOW THE WORLD WORKS BECAUSE THIS AND THAT, AND BECAUSE THIS QUOTE AND THIS GREATLY GREAT SCIENTIFIC ARTICLE AND GREATLY-GREAT-GREAT BOOK AND EVEN GREATLY-GREATER-GREATER GREAT AUTHOR. THAT'S WHAT'S UP, THAT'S HOW IT WORKS, GET IT?". No. I'm just sharing my journey. I also don't care if you agree or not, with whatever you happen to be agreeing with or not. Take your tea, your cakes and your coffee with honey that loses most of it's nutritional value the moment you put into such a hot beverage, or your crackers or whatever, sit and have a nice read or not.
+Disclaimer: The tone or concept in all the articles I'm sharing here, is about me teaching myself. It's NOT me trying to tell the reader "HEY, LISTEN, HERE'S WHAT'S UP. No, I'm just sharing my journey. I also don't care if you agree or not, with whatever you happen to be agreeing with or not. Take your tea, your cakes or whatever and have a nice read or not.
 
 PSYCHOLOGICAL PRECEDES TECHNICAL.
 
 So what that you have the skills and you can, whatever and however much it is that you can, if it's trivially easy to psychologically distract, derail or otherwise thwart you?
 
-Whatever you can or know how to perform, your abilities are only about as accessible as your psychological resilience allows. Conversely, whatever areas of lack are present in the sphere of your psychological resilience, it'll limit your abilities far below their real level.
+Whatever a person can or knows how to perform well, these abilities are only about as accessible their psychological resilience allows. Conversely, whatever areas of lack are present in the sphere of your psychological resilience, it'll limit your abilities far below their real level.
 
 PSYCHOLOGICAL RESILIENCE AND CONFIDENCE
 
@@ -36,7 +36,7 @@ There's a reason why performance psychology, sports psychology, exists: it's rea
 
 The world exerts pressure. People exert pressure. There are enormous amounts of influence, all kinds of influence, all the time. Lack of psychological resilience creates scenarios where real abilities and skills you have trained, learned, honed and acquired, won't even matter - it'll as if you didn't even ever train, learn, develop and hone any of them at all.
 
-You need to exert your own kind of pressure, asserting your own psychological influence. Then, your skills and abilities have an equivalent of a protected psychological space, within which you can express them with minimal to no hindrance.
+You need to exert your own kind of pressure, asserting your own psychological influence. Then, your skills and abilities have an equivalent of a protected psychological space, within which you can express them with minimal to no hindrance.s
 
 Josh Waitzkin, in his book "The art of learning", states that psychological resilience is arguably the most important trait of any competitor. That's a very curious point, coming from a multi-disciplinary champion of both of mental (chess) and physical (martial arts) sports. In this book, author also states that at the highest levels, everyone's got great technique. What differentiates champions, is almost always about psychological factors.
 

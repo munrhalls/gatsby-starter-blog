@@ -3,7 +3,7 @@ module.exports = {
     title: `Carbyne Explorations`,
     author: {
       name: `John`,
-      summary: `Exploring concepts of intuitive, dynamic, practical expansion, efficiency rates, coherence and optimizing practical value returns per day.`,
+      summary: `Exploring concepts of effectiveness, efficiency, learning rate and practical value returns per day.`,
     },
     description: `Blog.`,
     // siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
